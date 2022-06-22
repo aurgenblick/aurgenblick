@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aurgenblick
-- 👀 I’m interested in intellectual property, InfoSec, LegalTech, and MedTech .
+- 👀 I’m interested in intellectual property, LegalTech, and MedTech .
 - 🌱 I’m currently learning Java and valuing intagible assets .
 - 💞️ I’m looking to collaborate on patenting IT applications and developing Java projects .
 - 📫 You can reach me via aurgenblick@gmail.com .
