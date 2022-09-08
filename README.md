@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irine @aurgenblick
-- 👀 I’m interested in intellectual property, LegalTech, and sociology .
+- 👀 I have experience in intellectual property and optics .
 - 🌱 I’m currently learning Java Core, Spring and Docker .
 - 💞️ I’m looking to collaborate on developing Java and Spring projects .
 - 📫 You can reach me via aurgenblick@gmail.com .
