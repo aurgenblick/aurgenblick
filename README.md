@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Bio
 
-My name is Irina, I'm an Eurasian Patent Atorney and also a Java developer 🙂
+My name is Irina, I'm an Eurasian Patent Attorney and also a Java developer 🙂
 I'm working mostly with Java and exploring the capabilities of Spring, TypeScript and JavaScript !
